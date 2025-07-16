@@ -1,6 +1,6 @@
 # 🌦️ Real-Time Weather Analysis Dashboard | Power BI
 
-![Weather Dashboard Preview](./Screenshot%202025-07-16%20214823.png)
+![Weather Dashboard Preview]([./Screenshot%202025-07-16%20214823.png](https://github.com/adityakumar-09/weather-analysis-dashboard/blob/main/dashboard-preview.png))
 
 This project is a real-time **Weather Analysis Dashboard** built using **Power BI** and live data from the [WeatherAPI](https://www.weatherapi.com/). It provides an interactive and visually rich representation of key weather parameters such as temperature, humidity, wind speed, air quality, and rain prediction — across multiple cities in India.
 
